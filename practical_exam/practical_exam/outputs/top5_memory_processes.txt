@@ -1,0 +1,6 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+gdm-gre+    2137  2.3 12.4 4768112 219996 ?      Ssl  17:28   0:06 /usr/bin/gnome-shell --mode=gdm
+gdm-gre+    2459  0.2  2.5 772904 45764 ?        Ssl  17:28   0:00 /usr/libexec/xdg-desktop-portal-gnome
+root        3282  6.3  2.5 523780 45340 ?        Ssl  17:32   0:01 /usr/libexec/fwupd/fwupd
+root        1171  1.1  2.3 1998372 40972 ?       Ssl  17:28   0:03 /snap/snapd/current/usr/lib/snapd/snapd
+gdm-gre+    2341  0.0  1.8 2746864 33192 ?       Sl   17:28   0:00 /usr/bin/gjs -m /usr/share/gnome-shell/org.gnome.ScreenSaver
